@@ -1,2 +1,2 @@
-# Macro2VB-Betancur 
-Segundo Trabajo freelance de programador de macros en Visual Basic para Excel.
+# Macro2VB-Betancu 
+Trabajo freelance de programador de macros en Visual Basic para Excel.
